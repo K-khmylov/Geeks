@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/programming/python-for-geeks?utm_source=github&utm_medium=repository&utm_campaign=9781801070119"><img src="https://static.packt-cdn.com/products/9781801070119/cover/smaller" alt="Python for Geeks" height="256px" align="right"></a>
 
-This is the code repository for [Python for Geeks](https://www.packtpub.com/programming/python-for-geeks?utm_source=github&utm_medium=repository&utm_campaign=9781801070119), published by Packt.
+**Download link:** https://cloud.mail.ru/public/E7Hf/m1GWv5E1f
 
 **Build production-ready applications using advanced Python concepts and industry best practices**
 
@@ -20,5 +20,3 @@ This book covers the following exciting features:
 - Use Python to build web applications and application programming interfaces.
 - Apply Python for network automation and serverless functions.
 - Get to grips with Python for data analysis and machine learning.
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801070113) today!
